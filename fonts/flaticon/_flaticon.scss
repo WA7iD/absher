@@ -1,0 +1,90 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 28/08/2019 17:48
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-add:before { content: "\f100"; }
+.flaticon-percentage:before { content: "\f101"; }
+.flaticon-zoom:before { content: "\f102"; }
+.flaticon-back:before { content: "\f103"; }
+.flaticon-arrow-1:before { content: "\f104"; }
+.flaticon-add-1:before { content: "\f105"; }
+.flaticon-substract:before { content: "\f106"; }
+.flaticon-play-button:before { content: "\f107"; }
+.flaticon-dot-inside-a-circle:before { content: "\f108"; }
+.flaticon-arrow-2:before { content: "\f109"; }
+.flaticon-arrow:before { content: "\f10a"; }
+.flaticon-labor:before { content: "\f10b"; }
+.flaticon-menu:before { content: "\f10c"; }
+.flaticon-hexagon:before { content: "\f10d"; }
+.flaticon-files-and-folders:before { content: "\f10e"; }
+.flaticon-apple-logo:before { content: "\f10f"; }
+.flaticon-play-button-1:before { content: "\f110"; }
+.flaticon-menu-1:before { content: "\f111"; }
+.flaticon-eye-open:before { content: "\f112"; }
+.flaticon-comment:before { content: "\f113"; }
+.flaticon-heart:before { content: "\f114"; }
+.flaticon-global:before { content: "\f115"; }
+.flaticon-support:before { content: "\f116"; }
+.flaticon-shipping-and-delivery:before { content: "\f117"; }
+.flaticon-cross:before { content: "\f118"; }
+    
+    $font-Flaticon-add: "\f100";
+    $font-Flaticon-percentage: "\f101";
+    $font-Flaticon-zoom: "\f102";
+    $font-Flaticon-back: "\f103";
+    $font-Flaticon-arrow-1: "\f104";
+    $font-Flaticon-add-1: "\f105";
+    $font-Flaticon-substract: "\f106";
+    $font-Flaticon-play-button: "\f107";
+    $font-Flaticon-dot-inside-a-circle: "\f108";
+    $font-Flaticon-arrow-2: "\f109";
+    $font-Flaticon-arrow: "\f10a";
+    $font-Flaticon-labor: "\f10b";
+    $font-Flaticon-menu: "\f10c";
+    $font-Flaticon-hexagon: "\f10d";
+    $font-Flaticon-files-and-folders: "\f10e";
+    $font-Flaticon-apple-logo: "\f10f";
+    $font-Flaticon-play-button-1: "\f110";
+    $font-Flaticon-menu-1: "\f111";
+    $font-Flaticon-eye-open: "\f112";
+    $font-Flaticon-comment: "\f113";
+    $font-Flaticon-heart: "\f114";
+    $font-Flaticon-global: "\f115";
+    $font-Flaticon-support: "\f116";
+    $font-Flaticon-shipping-and-delivery: "\f117";
+    $font-Flaticon-cross: "\f118";
