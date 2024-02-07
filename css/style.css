@@ -10592,10 +10592,7 @@ select:focus {
   height: 771px;
   z-index: 2;
 }
-.banner-style5-area .phone.rtl {
-  right: auto;
-  left: 70px !important;
-}
+
 .banner-style5-area .round-box {
   position: absolute;
   top: 195px;
@@ -10611,10 +10608,6 @@ select:focus {
   -ms-animation: fa-spin 25s infinite alternate;
   -o-animation: fa-spin 25s infinite alternate;
   animation: fa-spin 25s infinite alternate;
-}
-.banner-style5-area .round-box.rtl {
-  right: auto;
-  left: 80px !important;
 }
 
 .banner-style5-area .inner .big-title {
@@ -10945,10 +10938,7 @@ select:focus {
   background-repeat: no-repeat;
   background-position: left top;
 }
-.about-style4-bg.rtl {
-  left: auto;
-  right: 0;
-}
+
 .about-style4-bg .shape1 {
   position: absolute;
   top: 145px;
@@ -10985,16 +10975,6 @@ select:focus {
   width: 100%;
   height: auto;
   z-index: 2;
-}
-.about-style4-bg.rtl .shape4 {
-  position: absolute;
-  left: auto;
-  right: 25px;
-  bottom: -23px;
-  max-width: 361px;
-  width: 100%;
-  height: auto;
-  z-index: 4;
 }
 
 .about-style4-content {
@@ -11036,10 +11016,7 @@ select:focus {
   cursor: pointer;
   margin-bottom: 30px;
 }
-.about-style4-content .inner-content .content-box.rtl ul li {
-  padding-left: 0;
-  padding-right: 60px;
-}
+
 .about-style4-content .inner-content .content-box ul li:last-child {
   margin-bottom: 0;
 }
@@ -11056,10 +11033,7 @@ select:focus {
   transition: all 200ms linear;
   transition-delay: 0.1s;
 }
-.about-style4-content .inner-content .content-box.rtl ul li:before {
-  left: 28px;
-  right: auto;
-}
+
 .about-style4-content .inner-content .content-box ul li:hover:before {
   color: #fe9518;
 }
@@ -11080,10 +11054,7 @@ select:focus {
   );
   background: linear-gradient(to bottom, #fe9518 0%, #fe9f2e 50%, #ffbc6c 100%);
 }
-.about-style4-content .inner-content .content-box.rtl ul li .icon {
-  left: auto;
-  right: -1px;
-}
+
 .about-style4-content .inner-content .content-box ul li.style2 .icon {
   background: #453188;
   background: -moz-linear-gradient(top, #453188 0%, #5b50b4 50%, #7675ea 100%);
@@ -11119,10 +11090,7 @@ select:focus {
   display: block;
   padding-left: 30px;
 }
-.about-style4-content .inner-content .content-box.rtl ul li .title {
-  padding-left: 0;
-  padding-right: 30px;
-}
+
 .about-style4-content .inner-content .content-box ul li .title h5 {
   color: #443087;
   font-size: 16px;
@@ -11365,27 +11333,6 @@ select:focus {
   position: absolute;
   top: 0;
   right: -350px;
-  z-index: 1;
-}
-.interface-box1.rtl {
-  position: absolute;
-  right: 0;
-  left: auto;
-  bottom: -16px;
-  z-index: 1;
-}
-.interface-box2.rtl {
-  position: absolute;
-  right: 250px;
-  left: auto;
-  top: -130px;
-  z-index: 3;
-}
-.interface-box3.rtl {
-  position: absolute;
-  top: 0;
-  left: -350px;
-  right: auto;
   z-index: 1;
 }
 
@@ -11711,9 +11658,7 @@ select:focus {
   flex-wrap: wrap;
   justify-content: left;
 }
-.single-testimonial-style4.rtl .top {
-  justify-content: right;
-}
+
 .single-testimonial-style4 .top .image-box {
   position: relative;
   display: block;
@@ -11728,12 +11673,7 @@ select:focus {
   display: block;
   padding-left: 20px;
 }
-.single-testimonial-style4.rtl .top .title-box {
-  position: relative;
-  display: block;
-  padding-right: 20px;
-  padding-left: 0;
-}
+
 .single-testimonial-style4 .top .title-box h3 {
   color: #443087;
   font-size: 18px;
